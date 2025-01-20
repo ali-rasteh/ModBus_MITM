@@ -1,0 +1,7 @@
+git
+net-tools
+python3
+python3-pip
+xfce4
+xfce4-goodies
+tightvncserver
